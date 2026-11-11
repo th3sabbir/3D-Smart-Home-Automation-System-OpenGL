@@ -1,0 +1,6 @@
+[00:00] System started
+[00:03] Security ARMED
+[00:04] Main door OPENED
+[00:04] INTRUSION: main door
+[00:05] Main door CLOSED
+[00:05] Intrusion cleared - alarm off
